@@ -1,7 +1,7 @@
 #include <iostream>
 #include <cmath>
 #include <bitset>
-#include "float_shredder/float_shredder.h"
+#include "float-shredder/float_shredder.h"
 
 int main (int argc, char** argv) {
 	float input_float;
